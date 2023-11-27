@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cryptochart/static/js/main.aba923ea.js",
+    "index.html": "/cryptochart/index.html",
+    "main.aba923ea.js.map": "/cryptochart/static/js/main.aba923ea.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aba923ea.js"
+  ]
+}
